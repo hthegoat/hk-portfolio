@@ -21,7 +21,7 @@ actions:
   link: https://github.com/mtobeiyf
 - text: CV
   link: /article/
-footer: Made with ♥ by Fing. Powered by VuePress
+footer: Made with ♥ by Harrison Kugler.
 ---
 
 <AboutCard :frontmatter="$page.frontmatter" >

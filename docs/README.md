@@ -2,7 +2,7 @@
 pageClass: home-page
 # some data for the components
 
-name: Harry Potter
+name: Harrison Kugler
 profile: /profile.jpg
 
 socials:
@@ -17,29 +17,28 @@ socials:
     link: https://www.instagram.com
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Student at Hogwarts School
-email: harry (at) hogwarts (dot) edu
+bio: Freelance Marketer 
+email: harrisonkug@pm.me
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. 
+I am a freelance marketing professional with experience in multiple industries. I work with clients to develop actionable marketing campaigns that convert and drive sales.
 
-I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+In the past three years, I have managed $375k in ad spend for clients, generating $1.5 million total in new revenue.
+Freelance work has allowed me to learn multiple industries which allows me to tailor my approach to your business.
+
+"A lot of the marketing industry is based on gut feelings and luck. In a data-driven world, marketing campaigns should be tailored to specific audiences with real data in mind. Marketing decisions need to be data-driven rather than just opinion." - me
+
+If you are looking for a fresh set of eyes and real talent using data-driven marketing, I am both of those things.
 
 
 ## News
 
 - [Sept 1991] Attended Hogwarts
 - [July 1980] Born in Godric's Hollow, West Country, England, Great Britain
-
-
-## Education & Experiences
-
-- **Hogwarts School of Witchcraft and Wizardry** <br/>
-Sept 1991 - 1997
 
 
 ## Projects
@@ -49,7 +48,7 @@ Sept 1991 - 1997
 
 <ProjectCard image="/projects/1.png" hideBorder=true>
 
-  **The Making of Harry Potter's Wand**
+  **The Making of Harrison Kugler's Wand**
 
   Harry P., Hermione G., *et al*
   
@@ -61,7 +60,7 @@ Sept 1991 - 1997
 
 <ProjectCard hideBorder=true>
 
-  **Harry Potter and the Deathly Hallows**
+  **Harrison Kugler and the Deathly Hallows**
   
   In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
 
