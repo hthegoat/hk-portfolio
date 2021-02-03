@@ -22,6 +22,7 @@ email: harrisonkug@pm.me
 ---
 
 ## Dark Mode
+<ToggleDarkMode>
 
 </ToggleDarkMode>
 
