@@ -24,6 +24,10 @@ actions:
 footer: Made with ♥ by Harrison Kugler.
 ---
 
+<ToggleDarkMode>
+
+</ToggleDarkMode>
+
 <AboutCard :frontmatter="$page.frontmatter" >
 
 I am a freelance marketing professional with experience in multiple industries. I work with clients to develop actionable marketing campaigns that convert and drive sales.
