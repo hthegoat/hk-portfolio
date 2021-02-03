@@ -50,13 +50,7 @@ body.dark-mode .md-card {
     background-color: rgb(25, 0, 134);
 }
 
-body.dark-mode about-card {
-    background-color: #000;
-}
 
-body.dark-mode about-page .page .card {
-    background-color: #20206A;
-}
 
 body.dark-mode .name {
 color: #f1f1f1;
@@ -73,6 +67,14 @@ body.dark-mode .navbar {
 body.dark-mode header {
     background-color: #000;
 }
+
+body.dark-mode .theme-container.about-page .page {
+    background-color: #000;
+}
+
+
+
+
 
 body.dark-mode .navbar .links {
     color: #f1f1f1;
