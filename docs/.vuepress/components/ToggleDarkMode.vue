@@ -62,10 +62,11 @@ body.dark-mode header {
 }
 
 body.dark-mode .navbar .links {
-    color: #000
+    color: #f1f1f1;
+    background-color: #000;
 }
 body.dark-mode .navbar .links .navlinks .nav-item {
-    color: #f1f1f1
+    : #f1f1f1
 }
 
 body.dark-mode h1, body.dark-mode h2, body.dark-mode h3, body.dark-mode p {
