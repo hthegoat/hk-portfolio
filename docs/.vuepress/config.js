@@ -11,7 +11,7 @@ module.exports = {
       { text: "Home", link: "/" },
       { text: "About", link: "/about/" },
       { text: "Projects", link: "/projects/" },
-      { text: "Navigation", link: "/guide/" },
+      { text: "Guide", link: "/guide/" },
       { text: "GitHub", link: "https://github.com/mtobeiyf/vuepress-homepage" }
     ],
     sidebar: {

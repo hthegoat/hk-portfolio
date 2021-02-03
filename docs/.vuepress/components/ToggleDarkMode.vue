@@ -57,10 +57,6 @@ body.dark-mode .navbar {
     color: #000
 }
 
-body.dark-mode .md-card {
-    background-color: #000;
-}
-
 body.dark-mode header {
     background-color: #000;
 }
