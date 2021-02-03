@@ -41,7 +41,11 @@ If you are looking for a fresh set of eyes and real talent using data-driven mar
 
 ## Career Highlights
 
-- $370k spent in ads for $1.5 million in revenue 
+- $370k spent in ads for $1.5 million in revenue
+- 4 million views on TikTok for a client under management
+- 3.4 million photo views on Unsplash 
+- Created and produced multiple commercial style content 
+
 
 
 ## Projects
@@ -78,7 +82,7 @@ The goal for this project was simple, meet the criteria to monetize a Facebook a
 <style lang="stylus">
 
 .theme-container.home-page .page
-  font-size 14px
+  font-size 16px
   font-family "lucida grande", "lucida sans unicode", lucida, "Helvetica Neue", Helvetica, Arial, sans-serif;
   p
     margin 0 0 0.5rem
