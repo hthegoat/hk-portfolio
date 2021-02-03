@@ -50,7 +50,7 @@ body.dark-mode .md-card {
     background-color: rgb(25, 0, 134);
 }
 
-body.dark-mode about-page .page {
+body.dark-mode about-card {
     background-color: #000;
 }
 
