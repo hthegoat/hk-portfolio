@@ -2,7 +2,7 @@
 pageClass: about-page
 description: 'The biography and information about me.'
 avatar: /profile.jpg
-head: 'Harry Potter'
+head: 'Harrison Kugler'
 info: 'Student at Hogwarts School'
 interests: 'Interests: Quidditch and Wizard chess.'
 socials:
@@ -26,8 +26,15 @@ footer: Made with ♥ by Harrison Kugler.
 
 <AboutCard :frontmatter="$page.frontmatter" >
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+I am a freelance marketing professional with experience in multiple industries. I work with clients to develop actionable marketing campaigns that convert and drive sales.
 
+In the past three years, I have managed $375k in ad spend for clients, generating $1.5 million total in new revenue.
+
+Freelance work has allowed me to learn multiple industries which allows me to tailor my approach to your business.
+
+"A lot of the marketing industry is based on gut feelings and luck. In a data-driven world, marketing campaigns should be tailored to specific audiences with real data in mind. Marketing decisions need to be data-driven rather than just opinion." - me
+
+If you are looking for a fresh set of eyes and real talent using data-driven marketing, I am both of those things.
 </AboutCard>
 
 <style lang="stylus">
