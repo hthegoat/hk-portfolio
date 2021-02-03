@@ -72,7 +72,9 @@ body.dark-mode .theme-container.about-page .page {
     background-color: #000;
 }
 
-
+body.dark-mode .theme-container.about-page .page .card {
+    background-color: #021037;
+}
 
 
 
