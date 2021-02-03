@@ -4,15 +4,18 @@ pageClass: projects-page
 
 # Work
 
-Here are some works of mine :books:
+Here is some of the work I have done. 
 
 ## Projects
 
-<ProjectCard image="/projects/1.png">
+<ToggleDarkMode>
 
-  Harry P., Hermione G., *et al*
+</ToggleDarkMode>
+
+<ProjectCard image="/projects/2.png">
+
   
-  **The Making of Harry Potter's Wand**
+  **Marketing Case Study**
   
   Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
   

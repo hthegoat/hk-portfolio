@@ -45,6 +45,12 @@ methods: {
 body.dark-mode {
     background: #000;
 }
+
+body.dark-mode .md-card {
+    background-color: #000;
+}
+
+
 body.dark-mode .name {
 color: #f1f1f1;
 }
