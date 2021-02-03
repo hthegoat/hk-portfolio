@@ -21,7 +21,6 @@ bio: Freelance Marketer
 email: harrisonkug@pm.me
 ---
 
-## Dark Mode
 <ToggleDarkMode>
 
 </ToggleDarkMode>
@@ -71,9 +70,7 @@ The goal for this project was simple, meet the criteria to monetize a Facebook a
 </ProjectCard>
 
 <!-- Dark Mode  -->
-## Dark Mode
 
-</ToggleDarkMode>
 
 
 <!-- Custom style for this page -->
