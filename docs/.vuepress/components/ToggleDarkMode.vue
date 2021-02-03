@@ -49,17 +49,17 @@ body.dark-mode .name {
 color: #f1f1f1;
 }
 
-body.dark-mode header .navbar .site-name {
+body.dark-mode .navbar .site-name {
     color: #f1f1f1;
 }
 
-body.dark-mode header .navbar {
+body.dark-mode .navbar {
     color: #000
 }
-body.dark-mode header .navbar .links {
+body.dark-mode .navbar .links {
     color: #000
 }
-body.dark-mode header .navbar .links .navlinks .nav-item {
+body.dark-mode .navbar .links .navlinks .nav-item {
     color: #f1f1f1
 }
 
