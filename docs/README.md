@@ -35,10 +35,9 @@ Freelance work has allowed me to learn multiple industries which allows me to ta
 If you are looking for a fresh set of eyes and real talent using data-driven marketing, I am both of those things.
 
 
-## News
+## Career Highlights
 
-- [Sept 1991] Attended Hogwarts
-- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain
+- $370k spent in ads for $1.5 million in revenue 
 
 
 ## Projects
@@ -46,35 +45,25 @@ If you are looking for a fresh set of eyes and real talent using data-driven mar
 
 [→ Full list](/projects/)
 
-<ProjectCard image="/projects/1.png" hideBorder=true>
+<ProjectCard image="/projects/2.png" hideBorder=true>
 
-  **The Making of Harrison Kugler's Wand**
+  **Marketing Case Study 🚀**
 
-  Harry P., Hermione G., *et al*
   
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
-  
+Working with Bury The Hatchet, I was able to setup a marketing + content strategy that resulted in an increase in Revenue and a Return On Ad Spend of 400%  
   [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
 
 </ProjectCard>
 
-<ProjectCard hideBorder=true>
+<ProjectCard image="/projects/3.png" hideBorder=true>
 
-  **Harrison Kugler and the Deathly Hallows**
+  **Monetizing on Facebook 💸**
   
-  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
+The goal for this project was simple, meet the criteria to monetize a Facebook account. We were able to do this in under 50% of our predicted time frame, for under 50% of my predicted ad spend.
 
   [[Link](https://www.google.com)]
 
 </ProjectCard>
-
-
-## Awards & Honors
-
-### Contests
-
-- First place in **The Hogwarts House Cup**
-
 
 <!-- Custom style for this page -->
 

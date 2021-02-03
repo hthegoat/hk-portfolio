@@ -3,8 +3,8 @@ pageClass: about-page
 description: 'The biography and information about me.'
 avatar: /profile.jpg
 head: 'Harrison Kugler'
-info: 'Student at Hogwarts School'
-interests: 'Interests: Quidditch and Wizard chess.'
+info: 'Freelance Marketer'
+interests: 'Interests: Surfing, Skateboarding, Fishing, Cryptocurrency.'
 socials:
 - title: github
   link: https://github.com/mtobeiyf
