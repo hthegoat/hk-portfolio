@@ -21,6 +21,10 @@ bio: Freelance Marketer
 email: harrisonkug@pm.me
 ---
 
+## Dark Mode
+
+</ToggleDarkMode>
+
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
