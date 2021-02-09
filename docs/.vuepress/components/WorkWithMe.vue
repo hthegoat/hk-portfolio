@@ -4,7 +4,7 @@
       <img :src="$withBase(image)" alt="">
     </div>
     <div class="card-content">
-      <slot></slot>
+      <slot>test</slot>
     </div>
   </div>
 </template>
