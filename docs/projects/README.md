@@ -25,13 +25,19 @@ Here is some of the work I have done.
 
 
 
-<ProjectCard>
+<ProjectCard image="/projects/3.png">
 
   **Facebook Video Views**
   
   In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
 
   [[Link](https://www.google.com)]
+
+</ProjectCard>
+
+<ProjectCard>
+
+**Work With Me*
 
 </ProjectCard>
 

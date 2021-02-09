@@ -73,6 +73,11 @@ The goal for this project was simple, meet the criteria to monetize a Facebook a
 
 </ProjectCard>
 
+<ProjectCard>
+**Work With Me**
+</ProjectCard>
+
+  
 <!-- Dark Mode  -->
 
 
