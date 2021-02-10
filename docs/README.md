@@ -76,7 +76,6 @@ The goal for this project was simple, meet the criteria to monetize a Facebook a
 
 <WorkWithMe>
 **Work With Me**
-
 </WorkWithMe>
   
 <!-- Dark Mode  -->
