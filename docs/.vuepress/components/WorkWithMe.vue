@@ -5,7 +5,7 @@
       <img :src="$withBase(image)" alt="">
     </div>
     <div class="card-content">
-              <button type="submit">Submit</button>
+              <button type="submit">Lets Work Together</button>
       <slot>
       </slot>
     </div>
@@ -42,6 +42,13 @@ export default {
       border-radius 0.2rem
       object-fit cover
   .card-content
+      text-align center
+      button
+      position relative
+      width 120px
+      height 50px
+      display inline-block
+      
       -webkit-margin-before 0em
       -webkit-margin-after 0.5em
     blockquote 
