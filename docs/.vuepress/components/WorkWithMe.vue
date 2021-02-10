@@ -30,7 +30,6 @@ export default {
   min-height 150px
   display flex
   flex-direction row
-  align-items: stretch
   .card-image
     display flex
     align-items center
@@ -43,6 +42,7 @@ export default {
       border-radius 0.2rem
       object-fit cover
   .card-content
+    align-items  center
     button
       max-width 500px
       max-height 700px
