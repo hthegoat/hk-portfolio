@@ -52,9 +52,9 @@ export default {
   .form
     display block
   .button
-    width 900px
-    height 900px
-
+    width 100px
+    height 50px
+    
 
 
 .md-card.show-border
