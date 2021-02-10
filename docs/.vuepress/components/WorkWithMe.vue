@@ -44,7 +44,6 @@ export default {
   .card-content
       text-align center
       button
-      position relative
       width 120px
       height 50px
       display inline-block
