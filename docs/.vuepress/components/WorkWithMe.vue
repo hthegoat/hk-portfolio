@@ -6,8 +6,9 @@
     <div class="card-content">
       
       <form>
-        <input type="text">
-        <input type="checkbox" name="yes" id="maybe">
+        <input type="text" name="Name" id="name">
+        <input type="email" name="Email" id="email">
+        <input type="text" name="Message" id="message">
       </form>
       <slot></slot>
     </div>
