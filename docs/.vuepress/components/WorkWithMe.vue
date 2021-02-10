@@ -8,7 +8,9 @@
         
       <slot>
       </slot>
-      <button type="submit">Contact Me 😁</button>
+      <form action="https://google.com">
+      <button onClick class="button" type="submit">Contact Me 😁</button>
+      </form>
     </div>
   </div>
 </template>
