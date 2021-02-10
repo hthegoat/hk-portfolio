@@ -8,8 +8,9 @@
         
       <slot>
       </slot>
-      <form action="https://google.com">
-      <button onClick class="button" type="submit">Contact Me 😁</button>
+      <form class="form" action="">
+        <input type="text" name="name" id="name">
+      <button  class="button" type="submit">Contact Me 😁</button>
       </form>
     </div>
   </div>
@@ -43,17 +44,18 @@ export default {
       border: 1px solid #eee;
       border-radius 0.2rem
       object-fit cover
-  .card-content
-    align-items  center
-    button
-      max-width 500px
-      max-height 700px
-      
-      
+  .card-content  
       -webkit-margin-before 0em
       -webkit-margin-after 0.5em
     blockquote 
       font-size 1rem
+  .form
+    display block
+    button
+    width 900px
+    
+
+
 
 .md-card.show-border
   border 3px solid #eee
