@@ -51,11 +51,20 @@ export default {
       object-fit cover
   .card-content
     .form 
+    overflow hidden
     display inline-block
     padding 0.5rem
     flex-grow 1
-    input
-      padding 5px
+    label
+      float left
+      width 200px
+      padding-right 24px
+    input 
+      float left
+      width auto
+    button
+      float right 
+      width auto  
 
       -webkit-margin-before 0em
       -webkit-margin-after 0.5em
