@@ -1,21 +1,15 @@
 <template>
+
   <div class="md-card" :class="{ 'show-border': !hideBorder}">
     <div v-if="image" class="card-image">
       <img :src="$withBase(image)" alt="">
     </div>
     <div class="card-content">
       
-      <form>
-        <label for="name">Name</label>
-        <input type="text" name="Name" id="name">
-        <label for="email">Email</label>
-        <input type="email" name="Email" id="email">
-        <label for="message">Message</label>
-        <input type="text" name="Message" id="message">
-        <input type="submit" value="">
+      
+      <slot>
         <button type="submit">Submit</button>
-      </form>
-      <slot></slot>
+      </slot>
     </div>
   </div>
 </template>
@@ -50,22 +44,6 @@ export default {
       border-radius 0.2rem
       object-fit cover
   .card-content
-    .form 
-    overflow hidden
-    display inline-block
-    padding 0.5rem
-    flex-grow 1
-    label
-      float left
-      width 200px
-      padding-right 24px
-    input 
-      float left
-      width auto
-    button
-      float right 
-      width auto  
-
       -webkit-margin-before 0em
       -webkit-margin-after 0.5em
     blockquote 
