@@ -52,8 +52,8 @@ export default {
   .form
     display block
   .button
-    max-width 900px
-
+    width 900px
+    height 900px
 
 
 
