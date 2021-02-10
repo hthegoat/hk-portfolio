@@ -6,9 +6,14 @@
     <div class="card-content">
       
       <form>
+        <label for="name">Name</label>
         <input type="text" name="Name" id="name">
+        <label for="email">Email</label>
         <input type="email" name="Email" id="email">
+        <label for="message">Message</label>
         <input type="text" name="Message" id="message">
+        <input type="submit" value="">
+        <button type="submit">Submit</button>
       </form>
       <slot></slot>
     </div>
@@ -23,6 +28,8 @@ export default {
 
 <style lang="stylus">
 @import './styles/config.styl';
+
+
 
 .md-card
   background-color $frontColor
@@ -43,10 +50,12 @@ export default {
       border-radius 0.2rem
       object-fit cover
   .card-content
+    .form 
     padding 0.5rem
     flex-grow 1
-    p
-      line-height normal
+    input
+      padding 5px
+      
       -webkit-margin-before 0em
       -webkit-margin-after 0.5em
     blockquote 
