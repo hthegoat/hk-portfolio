@@ -51,11 +51,25 @@ export default {
       object-fit cover
   .card-content
     .form 
-    position relative
-    padding 1px
-    flex-direction column
-    input
-    flex-direction column
+    overflow hidden
+    display inline-block
+    padding 0.5rem
+    flex-grow 1
+    label
+      float left
+      width 200px
+      padding-right 24px
+    input 
+      float left
+      width auto
+    button
+      float right 
+      width auto  
+
+      -webkit-margin-before 0em
+      -webkit-margin-after 0.5em
+    blockquote 
+      font-size 1rem
 
 .md-card.show-border
   border 3px solid #eee
