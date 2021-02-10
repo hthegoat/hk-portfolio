@@ -8,8 +8,8 @@
         
       <slot>
       </slot>
-      <form class="form" action="">
-        <input type="text" name="name" id="name">
+      <form class="form" action="https://form.jotform.com/210406613728047" target="_blank">
+       
       <button  class="button" type="submit">Contact Me 😁</button>
       </form>
     </div>
@@ -52,8 +52,8 @@ export default {
   .form
     display block
   .button
-    width 100px
-    height 50px
+    width 50px
+    height 20px
     
 
 
