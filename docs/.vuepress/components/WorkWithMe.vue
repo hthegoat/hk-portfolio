@@ -5,10 +5,8 @@
       <img :src="$withBase(image)" alt="">
     </div>
     <div class="card-content">
-      
-      
+              <button type="submit">Submit</button>
       <slot>
-        <button type="submit">Submit</button>
       </slot>
     </div>
   </div>
