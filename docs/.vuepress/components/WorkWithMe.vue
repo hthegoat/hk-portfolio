@@ -51,7 +51,7 @@ export default {
       font-size 1rem
   .form
     display block
-    button
+  .button
     max-width 900px
 
 
