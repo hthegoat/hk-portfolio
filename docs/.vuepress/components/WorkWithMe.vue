@@ -51,11 +51,12 @@ export default {
       object-fit cover
   .card-content
     .form 
+    display inline-block
     padding 0.5rem
     flex-grow 1
     input
       padding 5px
-      
+
       -webkit-margin-before 0em
       -webkit-margin-after 0.5em
     blockquote 
