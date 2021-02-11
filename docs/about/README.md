@@ -7,7 +7,7 @@ info: 'Freelance Marketer'
 interests: 'Interests: Surfing, Skateboarding, Fishing, Cryptocurrency.'
 socials:
 - title: github
-  link: https://github.com/hthegoat
+  link: https://github.com/mtobeiyf
 - title: linkedin
   link: https://www.linkedin.com
 - title: instagram
@@ -29,6 +29,8 @@ footer: Made with ♥ by Harrison Kugler.
 </ToggleDarkMode>
 
 <AboutCard :frontmatter="$page.frontmatter" >
+
+I love samm 
 
 I am a freelance marketing professional with experience in multiple industries. I work with clients to develop actionable marketing campaigns that convert and drive sales.
 
