@@ -7,7 +7,7 @@
         
       <slot>
       </slot>
-      <form class="form" name="contact" method="GET" data-netlify="true">
+      <form class="form" name="contact" method="GET" data-netlify="true" data-netlify-honeypot="bot-field">
        <p>
          <label for="name">Name</label><input type="text" name="name" id="name">
        </p>
