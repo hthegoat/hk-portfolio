@@ -118,7 +118,7 @@ See how we spent a little money for high ticket sales.
     .card-image
       padding 0.2rem
       img
-        max-width 320px
+        max-width 120px
         max-height 120px
     .card-content p
       -webkit-margin-after 0.2em
