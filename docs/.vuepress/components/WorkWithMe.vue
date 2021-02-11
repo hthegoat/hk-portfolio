@@ -8,8 +8,13 @@
         
       <slot>
       </slot>
-      <form class="form" action="https://form.jotform.com/210406613728047" target="_blank">
-       
+      <form class="form" name="contact" data-netlify="true">
+       <p>
+         <label for="name">Name</label><input type="text" name="name" id="">
+       </p>
+       <p>
+        <label for="email">Email</label><input type="email" name="email" id="">
+       </p>
       <button  class="button" type="submit">Contact Me 😁</button>
       </form>
     </div>
