@@ -35,7 +35,11 @@ Here is some of the work I have done.
 
 </ProjectCard>
 
+<ProjectCard>
 
+**Work With Me*
+
+</ProjectCard>
 
 <style lang="stylus">
 
