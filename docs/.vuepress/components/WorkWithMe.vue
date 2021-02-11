@@ -53,12 +53,12 @@ export default {
       -webkit-margin-after 0.5em
     blockquote 
       font-size 1rem
-  .form 
-    display block
-  .p
-    padding 1rem
-  .label
-    padding 1rem
+    form 
+      display block
+    p
+      padding 1rem
+    label
+      padding 1rem
   .button
     width 150px
     height 40px
