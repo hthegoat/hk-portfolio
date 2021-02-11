@@ -37,7 +37,7 @@ module.exports = {
       plugins: [
         new PrerenderSPAPlugin(
           // Absolute path to compiled SPA
-          path.resolve(__dirname, 'dist'),
+          path.resolve(__dirname, '/'),
           // List of routes to prerender
           [ '/', '/about', '/guide', './projects' ],
           {
