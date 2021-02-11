@@ -1,7 +1,3 @@
-const path = require('path')
-const PrerenderSPAPlugin = require('prerender-spa-plugin')
-
-
 module.exports = {
   title: "Harrison Kugler",
   description: "Freelance Performance Marketing",
@@ -31,23 +27,7 @@ module.exports = {
       md.use(require("markdown-it-katex"));
     }
   },
-  configureWebpack: () => {
-    if (process.env.NODE_ENV !== 'production') return;
-    return {
-      plugins: [
-        new PrerenderSPAPlugin(
-          // Absolute path to compiled SPA
-          path.resolve(__dirname, 'dist'),
-          // List of routes to prerender
-          [ '/', '/about/README.md', '/guide/README.md', './projects/README.md' ],
-          {
-            // options
-          }
-        ),
-      ]
-    }
-  }
-};
+}
 
 function genSidebarConfig (title) {
   return [
