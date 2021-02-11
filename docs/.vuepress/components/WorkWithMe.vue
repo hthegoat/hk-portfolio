@@ -59,10 +59,11 @@ export default {
       font-size 1rem
   .form
     display block
+    align-items left
   .button
     width 150px
     height 40px
-    padding 1px
+    padding 2px
     
 
 

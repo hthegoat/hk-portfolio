@@ -8,15 +8,15 @@ profile: /profile.jpg
 socials:
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/mtobeiyf
+    link: https://github.com/hthegoat93
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
+    link: https://www.linkedin.com/in/hkugler
   - title: instagram
     icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com
+    link: https://www.instagram.com/harrison_kugler
 
-cv: https://en.wikipedia.org/wiki/Harry_Potter
+cv: https://cli.re/d2MYnd
 bio: Freelance Marketer 
 email: harrisonkug@pm.me
 ---
@@ -78,7 +78,8 @@ The goal for this project was simple, meet the criteria to monetize a Facebook a
   **High Ticket Sales** 
 
 See how we spent a little money for high ticket sales. 
-[[Link]()]
+
+  [[Link]()]
 
 </ProjectCard>
 
