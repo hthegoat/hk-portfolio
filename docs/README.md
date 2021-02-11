@@ -8,15 +8,15 @@ profile: /profile.jpg
 socials:
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/mtobeiyf
+    link: https://github.com/hthegoat93
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
+    link: https://www.linkedin.com/in/hkugler
   - title: instagram
     icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com
+    link: https://www.instagram.com/Harrison_Kugler
 
-cv: https://en.wikipedia.org/wiki/Harry_Potter
+cv: https://cli.re/YNMNb1
 bio: Freelance Marketer 
 email: harrisonkug@pm.me
 ---
@@ -59,7 +59,7 @@ If you are looking for a fresh set of eyes and real talent using data-driven mar
 
   
 Working with Bury The Hatchet, I was able to setup a marketing + content strategy that resulted in an increase in Revenue and a Return On Ad Spend of 400%  
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
+  [[PDF](https://cli.re/qAoenq)] 
 
 </ProjectCard>
 

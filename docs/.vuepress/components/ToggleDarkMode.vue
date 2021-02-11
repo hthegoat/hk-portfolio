@@ -47,7 +47,7 @@ body.dark-mode {
 }
 
 body.dark-mode .md-card {
-    background-color: rgb(25, 0, 134);
+    background-color: #0b61a8;
 }
 
 
@@ -73,7 +73,7 @@ body.dark-mode .theme-container.about-page .page {
 }
 
 body.dark-mode .theme-container.about-page .page .card {
-    background-color: #021037;
+    background-color: #0b61a8;
 }
 
 body.dark-mode .theme-container.projects-page .page {

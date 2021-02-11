@@ -60,6 +60,7 @@ export default {
     label
       padding 0.5rem
   .button
+    display block
     width 150px
     height 40px
     
