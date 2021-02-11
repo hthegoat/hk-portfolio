@@ -73,14 +73,6 @@ The goal for this project was simple, meet the criteria to monetize a Facebook a
 
 </ProjectCard>
 
-<ProjectCard image="/projects/5,272%.png" hideBorder=true>
-
-  **High Ticket Sales** 
-
-See how we spent a little money for high ticket sales. 
-
-</ProjectCard>
-
 
 <WorkWithMe>
 **Work With Me**
