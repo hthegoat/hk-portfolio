@@ -30,8 +30,6 @@ footer: Made with ♥ by Harrison Kugler.
 
 <AboutCard :frontmatter="$page.frontmatter" >
 
-I love samm 
-
 I am a freelance marketing professional with experience in multiple industries. I work with clients to develop actionable marketing campaigns that convert and drive sales.
 
 In the past three years, I have managed $375k in ad spend for clients, generating $1.5 million total in new revenue.
