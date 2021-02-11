@@ -1,5 +1,4 @@
 <template>
-
   <div class="md-card" :class="{ 'show-border': !hideBorder}">
     <div v-if="image" class="card-image">
       <img :src="$withBase(image)" alt="">
@@ -8,7 +7,7 @@
         
       <slot>
       </slot>
-      <form class="form" name="contact" data-netlify="true">
+      <form class="form" name="contact" method="POST" data-netlify="true">
        <p>
          <label for="name">Name</label><input type="text" name="name" id="">
        </p>
