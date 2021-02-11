@@ -108,7 +108,7 @@ The goal for this project was simple, meet the criteria to monetize a Facebook a
     .card-image
       padding 0.2rem
       img
-        max-width 120px
+        max-width 320px
         max-height 120px
     .card-content p
       -webkit-margin-after 0.2em
