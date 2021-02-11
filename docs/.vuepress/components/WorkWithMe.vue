@@ -8,10 +8,7 @@
         
       <slot>
       </slot>
-      <form class="form" action="https://form.jotform.com/210406613728047" target="_blank">
-       
-      <button  class="button" type="submit">Contact Me 😁</button>
-      </form>
+      
       <form name="contact" netlify>
   <p>
     <label>Name <input type="text" name="name" /></label>
@@ -20,7 +17,7 @@
     <label>Email <input type="email" name="email" /></label>
   </p>
   <p>
-    <button type="submit">Send</button>
+    <button  class="button" type="submit">Contact Me 😁</button>
   </p>
 </form>
     </div>
@@ -65,6 +62,7 @@ export default {
   .button
     width 150px
     height 40px
+    padding 1px
     
 
 
