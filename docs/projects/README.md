@@ -17,9 +17,9 @@ Here is some of the work I have done.
   
   **Marketing Case Study**
   
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
+  Read more about my work with a national axe throwing chain. 
   
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
+  [[PDF](https://drive.google.com/file/d/17jqV-qwtT0p3AIJOu9Zx-cP-LfX8zsLg/view?usp=sharing)] 
 
 </ProjectCard>
 
