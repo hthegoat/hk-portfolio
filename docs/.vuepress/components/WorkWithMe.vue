@@ -56,9 +56,9 @@ export default {
     form 
       display block
     p
-      padding 1rem
+      padding 0.5rem
     label
-      padding 1rem
+      padding 0.5rem
   .button
     width 150px
     height 40px
