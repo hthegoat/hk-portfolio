@@ -78,6 +78,7 @@ The goal for this project was simple, meet the criteria to monetize a Facebook a
   **High Ticket Sales** 
 
 See how we spent a little money for high ticket sales. 
+[[Link]()]
 
 </ProjectCard>
 
