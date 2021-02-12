@@ -7,20 +7,20 @@ info: 'Freelance Marketer'
 interests: 'Interests: Surfing, Skateboarding, Fishing, Cryptocurrency.'
 socials:
 - title: github
-  link: https://github.com/mtobeiyf
+  link: https://github.com/hthegoat93
 - title: linkedin
-  link: https://www.linkedin.com
+  link: https://www.linkedin.com/in/hkugler
 - title: instagram
-  link: https://www.instagram.com
+  link: https://www.instagram.com/harrison_kugler
 - title: email
-  link: 'mailto:harry[at]gmail.com'
+  link: 'mailto:harrison[at]gmail.com'
 actions:
 - text: Projects
   link: /projects/
-- text: Blog
-  link: https://github.com/mtobeiyf
-- text: CV
-  link: /article/
+- text: This Doesnt Work 
+  link: https://github.com/hthegoat93
+- text: also doesnt work
+  link: harrisonkugler.com/
 footer: Made with ♥ by Harrison Kugler.
 ---
 
