@@ -29,11 +29,11 @@ Working with Bury The Hatchet, I was able to setup a marketing + content strateg
   
 The goal for this project was simple, meet the criteria to monetize a Facebook account. We were able to do this in under 50% of our predicted time frame, for under 50% of my predicted ad spend.
 
-  [[Link](https://www.google.com)]
+  [[Link](https://hkvideoviews.carrd.co/)]
 
 </ProjectCard>
 
-<ProjectCard image="/projects/videowork.png">
+<ProjectCard image="/projects/videowork.png" hideBorder=true>
 
   **Video Content**
 
