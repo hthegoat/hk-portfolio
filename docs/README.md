@@ -53,7 +53,7 @@ If you are looking for a fresh set of eyes and real talent using data-driven mar
 
 [→ Full list](/projects/)
 
-<ProjectCard image="/projects/2.png" hideBorder=true>
+<ProjectCard image="/projects/done.png" hideBorder=true>
 
   **Marketing Case Study 🚀**
 

@@ -2,24 +2,22 @@
 pageClass: projects-page
 ---
 
-# Work
-
-Here is some of the work I have done.
-
-## Projects
-
 <ToggleDarkMode>
 
 </ToggleDarkMode>
 
-<ProjectCard image="/projects/2.png">
+# Projects
+
+
+
+<ProjectCard image="/projects/done.png">
 
   
   **Marketing Case Study**
   
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
+Working with Bury The Hatchet, I was able to setup a marketing + content strategy that resulted in an increase in Revenue and a Return On Ad Spend of 400%  
   
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
+  [[PDF](https://cli.re/qAoenq)] 
 
 </ProjectCard>
 
@@ -35,11 +33,9 @@ Here is some of the work I have done.
 
 </ProjectCard>
 
-<ProjectCard>
-
-**Work With Me*
-
-</ProjectCard>
+<WorkWithMe>
+**Work With Me** 
+</WorkWithMe>
 
 <style lang="stylus">
 
