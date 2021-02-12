@@ -73,6 +73,11 @@ The goal for this project was simple, meet the criteria to monetize a Facebook a
 
 </ProjectCard>
 
+<ProjectCard image="/projects/videowork.png">
+
+  **Video Content**
+
+</ProjectCard>
 
 <WorkWithMe>
 **Work With Me**

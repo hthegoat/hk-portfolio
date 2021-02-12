@@ -27,9 +27,15 @@ Working with Bury The Hatchet, I was able to setup a marketing + content strateg
 
   **Facebook Video Views**
   
-  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
+The goal for this project was simple, meet the criteria to monetize a Facebook account. We were able to do this in under 50% of our predicted time frame, for under 50% of my predicted ad spend.
 
   [[Link](https://www.google.com)]
+
+</ProjectCard>
+
+<ProjectCard image="/projects/videowork.png">
+
+  **Video Content**
 
 </ProjectCard>
 
