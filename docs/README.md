@@ -3,7 +3,7 @@ pageClass: home-page
 # some data for the components
 
 name: Harrison Kugler
-profile: /profile.jpg
+profile: /pro.jpg
 
 socials:
   - title: github
@@ -63,7 +63,7 @@ Working with Bury The Hatchet, I was able to setup a marketing + content strateg
 
 </ProjectCard>
 
-<ProjectCard image="/projects/done1.png" hideBorder=true>
+<ProjectCard image="/projects/done12.png" hideBorder=true>
 
   **Monetizing on Facebook 💸**
   

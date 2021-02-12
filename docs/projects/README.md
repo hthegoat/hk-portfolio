@@ -23,7 +23,7 @@ Working with Bury The Hatchet, I was able to setup a marketing + content strateg
 
 
 
-<ProjectCard image="/projects/done1.png">
+<ProjectCard image="/projects/done12.png">
 
   **Facebook Video Views**
   
