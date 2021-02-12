@@ -63,7 +63,7 @@ Working with Bury The Hatchet, I was able to setup a marketing + content strateg
 
 </ProjectCard>
 
-<ProjectCard image="/projects/3.png" hideBorder=true>
+<ProjectCard image="/projects/done1.png" hideBorder=true>
 
   **Monetizing on Facebook 💸**
   
