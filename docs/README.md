@@ -3,7 +3,7 @@ pageClass: home-page
 # some data for the components
 
 name: Harrison Kugler
-profile: /pro.jpg
+profile: /pro-min.jpg
 
 socials:
   - title: github

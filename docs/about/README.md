@@ -1,7 +1,7 @@
 ---
 pageClass: about-page
 description: 'The biography and information about me.'
-avatar: /pro.jpg
+avatar: /pro-min.jpg
 head: 'Harrison Kugler'
 info: 'Freelance Marketer'
 interests: 'Interests: Surfing, Skateboarding, Fishing, Cryptocurrency.'
