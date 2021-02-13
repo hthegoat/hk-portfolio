@@ -11,6 +11,7 @@ module.exports = {
       { text: "Home", link: "/" },
       { text: "About", link: "/about/" },
       { text: "Projects", link: "/projects/" },
+      { text: "Testimonials", link: "/testimonials/"}
      
     ],
     sidebar: {
