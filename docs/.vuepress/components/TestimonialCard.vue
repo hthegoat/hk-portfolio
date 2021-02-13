@@ -35,7 +35,7 @@ export default {
       max-height 150px
       height 150px
       border: 1px solid #eee;
-      border-radius 50%
+      border-radius 50rem
       object-fit cover
   .card-content
     padding 0.5rem
