@@ -80,6 +80,10 @@ body.dark-mode .theme-container.projects-page .page {
     background-color: #000;
 }
 
+body.dark-mode .theme-container.testimonials-page .page {
+    background-color: #000;
+}
+
 
 
 body.dark-mode .navbar .links {

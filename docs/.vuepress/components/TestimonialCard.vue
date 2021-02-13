@@ -29,13 +29,13 @@ export default {
     display flex
     align-items center
     padding 0.5rem
-    border-radius 50%
+    
     img 
       max-width 150px
       max-height 150px
       height 150px
       border: 1px solid #eee;
-      border-radius 0.2rem
+      border-radius 50%
       object-fit cover
   .card-content
     padding 0.5rem
