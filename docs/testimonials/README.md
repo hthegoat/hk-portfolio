@@ -10,7 +10,7 @@ pageClass: testimonials-page
 
 
 
-<TestimonialCard image="/test/jen.png">
+<TestimonialCard image="/test/jen.jpg">
 
   
   **Jenna Schuchardt, Communications Specialist**
@@ -23,7 +23,7 @@ Dedicated is the phrase that comes to mind when I think about Harrison. I’ve h
 
 
 
-<TestimonialCard image="/test/ger.png">
+<TestimonialCard image="/test/ger.jpg">
 
   **Gerardo Campbell, Project Manager**
   
@@ -33,7 +33,7 @@ Efficient is what comes to mind when I think about Harrison. I’ve had the plea
 
 </TestimonialCard>
 
-<TestimonialCard image="/test/mar.png" hideBorder=true>
+<TestimonialCard image="/test/mar.jpg" hideBorder=true>
 
   **Marty Parker, Owner/Entrepreneur**
 
@@ -43,7 +43,7 @@ Efficient is what comes to mind when I think about Harrison. I’ve had the plea
 
 </TestimonialCard>
 
-<TestimonialCard image="/test/dav.png" hideBorder=true>
+<TestimonialCard image="/test/dav.jpg" hideBorder=true>
 
   **David Riklan, Owner/Founder SelfGrowth.com**
 
@@ -54,7 +54,7 @@ Harrison was essential to the team, and contributed significantly to the success
 
 </TestimonialCard>
 
-<TestimonialCard image="/test/how.png" hideBorder=true>
+<TestimonialCard image="/test/how.jpg" hideBorder=true>
 
   **Howard Klotzkin, Owner/Founder Bury The Hatchet/Amazing Escape Room Brands**
 
@@ -64,7 +64,7 @@ Harrison was essential to the team, and contributed significantly to the success
 
 
 </TestimonialCard>
-<TestimonialCard image="/test/hei.png" hideBorder=true>
+<TestimonialCard image="/test/hei.jpg" hideBorder=true>
 
   **Heidi Neufeld, COO Bury The Hatchet/Amazing Escape Room Brands**
 
