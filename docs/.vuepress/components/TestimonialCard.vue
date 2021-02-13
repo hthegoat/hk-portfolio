@@ -29,6 +29,7 @@ export default {
     display flex
     align-items center
     padding 0.5rem
+    border-radius 50%
     img 
       max-width 150px
       max-height 150px
@@ -44,7 +45,7 @@ export default {
       -webkit-margin-before 0em
       -webkit-margin-after 0.5em
     blockquote 
-      font-size 1rem
+      font-size 2rem
 
 .md-card.show-border
   border 3px solid #eee

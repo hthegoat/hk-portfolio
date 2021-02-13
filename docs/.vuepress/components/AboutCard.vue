@@ -78,7 +78,7 @@ export default {
       width 100%
       height auto
       max-width 150px
-      border-radius 50%
+      border-radius 500rem
 
   .card
     max-width: 600px

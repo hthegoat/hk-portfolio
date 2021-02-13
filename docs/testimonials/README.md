@@ -15,7 +15,7 @@ pageClass: testimonials-page
   
   **Jenna Schuchardt, Communications Specialist**
   
-Dedicated is the phrase that comes to mind when I think about Harrison. I’ve had the pleasure of working with Harrison over the past few months to rebuild a brand post Covid-19 shutdown. Above all, I was impressed with Harrison’s ability to turn limited resources into effective and engaging social media ma... See more
+> Dedicated is the phrase that comes to mind when I think about Harrison. I’ve had the pleasure of working with Harrison over the > past few months to rebuild a brand post Covid-19 shutdown. Above all, I was impressed with Harrison’s ability to turn limited > > resources into effective and engaging social media ma... See more
   
   [[LinkedIN](https://www.linkedin.com/in/jennaschuchardt/)] 
 
