@@ -6,38 +6,74 @@ pageClass: testimonials-page
 
 </ToggleDarkMode>
 
-# Projects
+# Testimonials 
 
 
 
-<ProjectCard image="/projects/done.png">
+<TestimonialCard image="/test/jen.png">
 
   
-  **Marketing Case Study**
+  **Jenna Schuchardt, Communications Specialist**
   
-Working with Bury The Hatchet, I was able to setup a marketing + content strategy that resulted in an increase in Revenue and a Return On Ad Spend of 400%  
+Dedicated is the phrase that comes to mind when I think about Harrison. I’ve had the pleasure of working with Harrison over the past few months to rebuild a brand post Covid-19 shutdown. Above all, I was impressed with Harrison’s ability to turn limited resources into effective and engaging social media ma... See more
   
-  [[PDF](https://cli.re/qAoenq)] 
+  [[LinkedIN](https://www.linkedin.com/in/jennaschuchardt/)] 
 
-</ProjectCard>
+</TestimonialCard>
 
 
 
-<ProjectCard image="/projects/done12.png">
+<TestimonialCard image="/test/ger.png">
 
-  **Facebook Video Views**
+  **Gerardo Campbell, Project Manager**
   
-The goal for this project was simple, meet the criteria to monetize a Facebook account. We were able to do this in under 50% of our predicted time frame, for under 50% of my predicted ad spend.
+Efficient is what comes to mind when I think about Harrison. I’ve had the pleasure of working with Harrison on a website project of mine. Above all, I was impressed with his ability to understand what I needed and execute that task without the extra fluff. Harrison is a true asset for anyone looking for a self-motivated freelance marketing expert and it's without hesitation I recommend him.
 
-  [[Link](https://hkvideoviews.carrd.co/)]
+  [[LinkedIn](https://www.linkedin.com/in/gcampbell811072/)]
 
-</ProjectCard>
+</TestimonialCard>
 
-<ProjectCard image="/projects/videowork.png" hideBorder=true>
+<TestimonialCard image="/test/mar.png" hideBorder=true>
 
-  **Video Content**
+  **Marty Parker, Owner/Entrepreneur**
 
-</ProjectCard>
+  Harrison was a resource to our marketing team while working for me on a few projects. His attention and data driven approach is unique, which gave us a tremendous advantage over the competition. I would recommend him highly to any team looking to improve there marketing performance!
+
+   [[LinkedIn](https://www.linkedin.com/in/marty-parker-37191714/)]
+
+</TestimonialCard>
+
+<TestimonialCard image="/test/dav.png" hideBorder=true>
+
+  **David Riklan, Owner/Founder SelfGrowth.com**
+
+Harrison was essential to the team, and contributed significantly to the success of our company. He is very thorough in everything he does and can be depended upon to get the job done. Harrison assumed a leadership role in SelfGrowth.com inspiring and motivating his colleagues. Whenever I had a problem, there has never been a time Harrison has left me without a solution. I learned a great deal from Harrison. I thoroughly enjoyed working with him at SelfGrowth.com.
+
+   [[LinkedIn](https://www.linkedin.com/in/davidriklan/)]
+
+
+</TestimonialCard>
+
+<TestimonialCard image="/test/how.png" hideBorder=true>
+
+  **Howard Klotzkin, Owner/Founder Bury The Hatchet/Amazing Escape Room Brands**
+
+“Harrison is very creative and gets things done. A huge asset to anyone he works with. Before Harrison we were boosting posts like most of our competitors. When he came on, his first directive was to install and setup attribtution to track the success of the campaigns. At first I did not know if this would make a difference, within a few months I was completely on board and understood the competitive advantage we immediately had."
+   
+   [[LinkedIn](https://www.linkedin.com/in/howard-klotzkin-ba83bb6b/)]
+
+
+</TestimonialCard>
+<TestimonialCard image="/test/hei.png" hideBorder=true>
+
+  **Heidi Neufeld, COO Bury The Hatchet/Amazing Escape Room Brands**
+
+"I have worked with Harrison and he has a spot on knowledge of what is key in world of social media. His attention to the back ends is exceptional. I would recommend him to any company that wants a wider presence in social media and he will guide you into the world of statistics and all the reasoning behind having a serious a media presence."
+
+   [[LinkedIn](https://www.linkedin.com/in/heidi-neufeld-2141954/)]
+
+
+</TestimonialCard>
 
 <WorkWithMe>
 **Work With Me** 
