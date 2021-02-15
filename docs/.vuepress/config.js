@@ -15,7 +15,7 @@ module.exports = {
      
     ],
     sidebar: {
-      '/guide/': genSidebarConfig('Guide')
+      '/projects/': genSidebarConfig('Projects')
     },
     lastUpdated: 'Last Updated'
   },

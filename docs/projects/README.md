@@ -1,51 +1,17 @@
----
-pageClass: projects-page
----
+# Introduction
 
-<ToggleDarkMode>
+Right now this is where I am hosting some of my recent work.
 
-</ToggleDarkMode>
+It's suitable for building your personal homepage with:
+- About me :raising_hand:
+- Projects, publications, portfolio :books:
+- Biography, timeline, resume(CV) :page_with_curl: 
 
-# Projects
+## Features
+- Markdown and emoji supported :smiley:
+- Elegant and minimalistic
+- Customizable and mobile-friendly
+- Multi-language support
+- Powered by [VuePress](https://vuepress.vuejs.org/) and [Vue.js](https://vuejs.org/)
 
-
-
-<ProjectCard image="/projects/done.png">
-
-  
-  **Marketing Case Study**
-  
-Working with Bury The Hatchet, I was able to setup a marketing + content strategy that resulted in an increase in Revenue and a Return On Ad Spend of 400%  
-  
-  [[PDF](https://cli.re/qAoenq)] 
-
-</ProjectCard>
-
-
-
-<ProjectCard image="/projects/done12.png">
-
-  **Facebook Video Views**
-  
-The goal for this project was simple, meet the criteria to monetize a Facebook account. We were able to do this in under 50% of our predicted time frame, for under 50% of my predicted ad spend.
-
-  [[Link](https://hkvideoviews.carrd.co/)]
-
-</ProjectCard>
-
-<ProjectCard image="/projects/videowork.png" hideBorder=true>
-
-  **Video Content**
-
-</ProjectCard>
-
-<WorkWithMe>
-**Work With Me** 
-</WorkWithMe>
-
-<style lang="stylus">
-
-.projects-page
-  background-color #fafbfc
-
-</style>
+Now, let's try it :point_right:
